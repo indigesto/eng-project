@@ -9,3 +9,16 @@
 Heroku Application Link: https://eng-project.herokuapp.com/
 
 <b>Descrição:</b> Rede Social destinada a pessoas que desejam compartilhar experiências baseada em convites para espaços ou atividades de interesse mútuo. A idéia é seria os usuários cadastrarem atividades que antes fariam sozinhos para compartilharem essa experiência com outras pessoas com mesmo interesse.
+
+<b>Integrantes do grupo:</b>
+Gabriel Michelini Vieira - 9277451
+
+Raphael Takashi Miyaguni Franciscatte - 9277371
+
+Jonatas Francklin Yano se Sousa - 9277169
+
+Luan Miranda Sales - 9277468
+
+Gustavo Romito Nogueira - 8516292
+
+Marcello Vanucci Tedardi - 5924945
