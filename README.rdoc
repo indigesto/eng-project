@@ -4,31 +4,8 @@
 
 == README
 
+=== Nome do Projeto: Buddy Me!
+
 Heroku Application Link: https://eng-project.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<b>Descrição:</b> Rede Social destinada a pessoas que desejam compartilhar experiências baseada em convites para espaços ou atividades de interesse mútuo. A idéia é seria os usuários cadastrarem atividades que antes fariam sozinhos para compartilharem essa experiência com outras pessoas com mesmo interesse.
