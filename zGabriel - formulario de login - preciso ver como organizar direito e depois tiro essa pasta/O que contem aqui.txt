@@ -1,0 +1,1 @@
+Estava criando um formulario para cadastro de login de usuario contendo nome, email, senha e confirmação de senha, não consegui fazer executar ainda, pois tive problemas para instalar a gem 'bcrypt'. Por isso não consegui dar continuidade devido ao grande tempo gasto, sem sucesso, para instalar essa gem.
